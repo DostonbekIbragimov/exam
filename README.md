@@ -18,7 +18,7 @@ d) All of the mentioned
 
 -aytilganlarning hammasi
 
-----------==========----------==========----------==========----------==========
+------------------------------------------------------------------------
 
 **2. Starting from least to most important, choose the order of stakeholder.**
 
