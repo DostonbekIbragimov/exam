@@ -34,7 +34,7 @@ a) i, ii, iv, iii
 
 b) i, ii, iii, iv
 
-c) ii, iv, i, iii
+**c) ii, iv, i, iii**
 
 d) All of the mentioned
 
@@ -48,7 +48,7 @@ iii. Foydalanuvchilar, iv. O'rta darajadagi manfaatdor tomon
 
 -i, ii, iii, iv
 
-**+iii, iv, i, iii**
+**+ii, iv, i, iii**
 
 -aytilganlarning hammasi
 
@@ -78,7 +78,7 @@ i. Mustahkamlash, ii. Ustuvorlik, iii. Talablarni yig'ish, iv. Baholash
 
 -iii, i, ii, iv
 
-**+ii, iv, ii, i**
+**+iii, iv, ii, i**
 
 -iii, ii, iv, i
 
