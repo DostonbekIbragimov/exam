@@ -1,6 +1,6 @@
-1. What is the first step of requirement elicitation?
+**1. What is the first step of requirement elicitation?**
 
-++a) Identifying Stakeholder
+**++a) Identifying Stakeholder**
 
 b) Listing out Requirements
 
@@ -8,9 +8,9 @@ c) Requirements Gathering
 
 d) All of the mentioned
 
-1. Talabni aniqlashning birinchi bosqichi nima?
+**1. Talabni aniqlashning birinchi bosqichi nima?**
 
-++manfaatdor tomonlarni aniqlash
+**++manfaatdor tomonlarni aniqlash**
 
 -Talablarni ro'yxatga olish
 
@@ -20,7 +20,7 @@ d) All of the mentioned
 
 ----------==========----------==========----------==========----------==========
 
-2. Starting from least to most important, choose the order of stakeholder.
+**2. Starting from least to most important, choose the order of stakeholder.**
 
 i. Managers
 
@@ -48,13 +48,13 @@ iii. Foydalanuvchilar, iv. O'rta darajadagi manfaatdor tomon
 
 -i, ii, iii, iv
 
-+iii, iv, i, iii
+**+iii, iv, i, iii**
 
 -aytilganlarning hammasi
 
 ----------==========----------==========----------==========----------==========
 
-3. Arrange the tasks involved in requirements elicitation in an appropriate manner.
+**3. Arrange the tasks involved in requirements elicitation in an appropriate manner.**
 
 i. Consolidation
 
@@ -66,7 +66,7 @@ iv. Evaluation
 
 a) iii, i, ii, iv
 
-b) iii, iv, ii, i
+**b) iii, iv, ii, i**
 
 c) iii, ii, iv, i
 
@@ -74,62 +74,62 @@ d) ii, iii, iv, i
 
 ----------==========----------==========----------==========----------==========
 
-3.Talablarni aniqlash bilan bog'liq vazifalarni tegishli tarzda tartibga soling. i. Mustahkamlash, ii. Ustuvorlik, iii. Talablarni yig'ish, iv. Baholash
+**3.Talablarni aniqlash bilan bog'liq vazifalarni tegishli tarzda tartibga soling**. i. Mustahkamlash, ii. Ustuvorlik, iii. Talablarni yig'ish, iv. Baholash
 -iii, i, ii, iv
 
-+ii, iv, ii, i
+**+ii, iv, ii, i**
 
 -iii, ii, iv, i
 
 -ii, iii, iv, i
 
-4.Sifat funktsiyasini joylashtirishda (QFD) qanday talab turlari mavjud?
+**4.Sifat funktsiyasini joylashtirishda (QFD) qanday talab turlari mavjud?**
 -Ma'lum, noma'lum, tush ko'rmagan
 
 -foydalanuvchi, dasturchi
 
 -Funktsional, Funksional bo'lmagan
 
-+Oddiy, kutilgan, hayajonli
+**+Oddiy, kutilgan, hayajonli**
 
-5.Tizimning funksional ko'rinishini berish uchun aniqlash va modellashtirish uchun qanday yondashuv joriy etildi?
+**5.Tizimning funksional ko'rinishini berish uchun aniqlash va modellashtirish uchun qanday yondashuv joriy etildi?**
 -Ob'ektga yo'naltirilgan dizayn (Booch tomonidan)
 
-+Foydalanish holatlari (Jeykobson tomonidan)
+**+Foydalanish holatlari (Jeykobson tomonidan)**
 
 -Fusion (Koulman tomonidan)
 
 -Ob'ektni modellashtirish texnikasi (Rumbo tomonidan)
 
-6.OOSEda qanday aktyor turlari qo'llaniladi?
+**6.OOSEda qanday aktyor turlari qo'llaniladi?**
 -asosiy
 
 -ikkilamchi
 
 -uchlik
 
-+Boshlang'ich va ikkinchi darajali
+**+Boshlang'ich va ikkinchi darajali**
 
-7.Nima uchun Talablarni aniqlash qiyin vazifa?
+**7.Nima uchun Talablarni aniqlash qiyin vazifa?**
 -qamrov muammosi
 
 -Tushunish muammosi
 
 -o'zgaruvchanlik muammosi
 
-+aytilganlarning hammasi
+**+aytilganlarning hammasi**
 
-8.1970-yillarda IBM da ishlab chiqilgan talablarni yig'ishning qanday usuli talablarni aniqlashni boshqarish uchun ishlatilgan?
+**8.1970-yillarda IBM da ishlab chiqilgan talablarni yig'ishning qanday usuli talablarni aniqlashni boshqarish uchun ishlatilgan?**
 -JAD
 
 -kuzatuv qobiliyati
 
 -TEZ
 
-+JAD ham, kuzatilishi ham
+**+JAD ham, kuzatilishi ham**
 
-9.Talablar modelining to'g'riligi, to'liqligi va izchilligi qanday barcha ish mahsulotlari sifatiga kuchli ta'sir qiladi?
-+Talab sifati
+**9.Talablar modelining to'g'riligi, to'liqligi va izchilligi qanday barcha ish mahsulotlari sifatiga kuchli ta'sir qiladi?
+**+Talab sifati
 
 -Dizayn sifati
 
@@ -137,44 +137,47 @@ d) ii, iii, iv, i
 
 -Sifatni nazorat qilish samaradorligi
 
-10.Ogohlantirish faoliyatida nechta stsenariy mavjud?
+**10.Ogohlantirish faoliyatida nechta stsenariy mavjud?**
 -bitta
 
 -ikkita
 
 -uch
 
-+to'rt
+**+to'rt
 
-11.Quyidagilardan qaysi biri Talablar tahlilida o'rganiladigan diagramma emas?
+**11.Quyidagilardan qaysi biri Talablar tahlilida o'rganiladigan diagramma emas?**
 -Foydalanish holatlari
 
 -Shaxs munosabatlari diagrammasi
 
 -Davlat o'tish diagrammasi
 
-+Faoliyat diagrammasi
+**+Faoliyat diagrammasi
 
-12.Talablarni tahlil qilishda qancha texnik-iqtisodiy asoslar o'tkaziladi?
+**12.Talablarni tahlil qilishda qancha texnik-iqtisodiy asoslar o'tkaziladi?
+
 -ikkita
 
 -uch
 
 -to'rt
 
-+aytilganlarning hech biri
+**+aytilganlarning hech biri
 
-13.Talablarni tahlil qilish necha bosqichdan iborat?
+**13.Talablarni tahlil qilish necha bosqichdan iborat?
+
 -uch
 
 -to'rt
 
-+besh
+**+besh
 
 -olti
 
-14.Qaysi hujjatlar dasturiy ta'minot dizayneri, ishlab chiquvchisi va ularning sinov guruhi uchun o'z vazifalarini bajarish uchun asosiy vosita bo'lib ishlaydi?
-+Talab hujjatlari
+**14.Qaysi hujjatlar dasturiy ta'minot dizayneri, ishlab chiquvchisi va ularning sinov guruhi uchun o'z vazifalarini bajarish uchun asosiy vosita bo'lib ishlaydi?
+
+**+Talab hujjatlari
 
 -Foydalanuvchi hujjatlari
 
@@ -182,8 +185,9 @@ d) ii, iii, iv, i
 
 -Texnik hujjatlar
 
-15.Talablarni tahlil qilish rivojlanish loyihasining muvaffaqiyati uchun juda muhimdir.
-+To'g'ri
+**15.Talablarni tahlil qilish rivojlanish loyihasining muvaffaqiyati uchun juda muhimdir.
+
+**+To'g'ri
 
 -yolg'on
 
@@ -191,150 +195,168 @@ d) ii, iii, iv, i
 
 -aytilganlarning hech biri
 
-16._________ va _________ Talablar tahlilining ikkita masalasidir.
+**16._________ va _________ Talablar tahlilining ikkita masalasidir.
+
 -Ishlash, dizayn
 
-+manfaatdor tomon, ishlab chiquvchi
+**+manfaatdor tomon, ishlab chiquvchi
 
 -Funktsional, Funksional bo'lmagan
 
 -aytilganlarning hech biri
 
-17.Talablarni tahlil qilish natijasida yuzaga keladigan talablar odatda uchta nuqtai nazardan yoki qarashlardan birida ifodalanadi.Bu qanday nuqtai nazar yoki qarash?
+**17.Talablarni tahlil qilish natijasida yuzaga keladigan talablar odatda uchta nuqtai nazardan yoki qarashlardan birida ifodalanadi.Bu qanday nuqtai nazar yoki qarash?
+
 -Ishlab chiquvchi
 
 -foydalanuvchi
 
 -Funktsional bo'lmagan
 
-+jismoniy
+**+jismoniy
 
-18.Dasturiy ta'minot injiniringida talablarni aniqlashning ma'nosi nima?
+**18.Dasturiy ta'minot injiniringida talablarni aniqlashning ma'nosi nima?
+
 -Talabni yig'ish.
 
 -Talabni tushunish.
 
 -Mijozdan talablarni olish.
 
-+Yuqoridagilarning barchasi.
+**+Yuqoridagilarning barchasi.
 
-19.Koad va Yourdon talab tahlili modeliga kiritish uchun har bir potentsial ob'ektni tahlilchi sifatida ko'rib chiqadigan _______ tanlash xususiyatlarini taklif qildi.
+**19.Koad va Yourdon talab tahlili modeliga kiritish uchun har bir potentsial ob'ektni tahlilchi sifatida ko'rib chiqadigan _______ tanlash xususiyatlarini taklif qildi.
+
 -uch
 
 -to'rt
 
 -besh
 
-+olti
+**+olti
 
-20.Agar talablar osongina tushunarli va aniqlangan bo'lsa, qaysi model eng mos keladi?
+**20.Agar talablar osongina tushunarli va aniqlangan bo'lsa, qaysi model eng mos keladi?
+
 -Spiral model
 
-Sharshara modeli
+**Sharshara modeli
+
 -Prototiplash modeli
 
 -Yuqoridagilarning hech biri
 
-21.Quyidagi gaplardan qaysi biri to'g'ri?
+**21.Quyidagi gaplardan qaysi biri to'g'ri?
+
 -Mahsulotning ishlash muddati davomida talablarni yaratish, o'zgartirish va boshqarish bo'yicha ish talablarni ishlab chiqish deb ataladi
 
 -Talablar muhandisligining dastlab talablarni belgilash bilan bog'liq qismi talablar muhandisligi deb ataladi
 
-+Talablar muhandisligining talablar o'zgarishini nazorat qilish bilan bog'liq qismi talablarni boshqarish deb ataladi
+**+Talablar muhandisligining talablar o'zgarishini nazorat qilish bilan bog'liq qismi talablarni boshqarish deb ataladi
 
 -aytilganlarning hammasi
 
-22.Qaysi biri SRS uchun to'g'ri?
+**22.Qaysi biri SRS uchun to'g'ri?
+
 -SRS dasturiy mahsulotni loyihalash jarayonining asosiy kirish qismidir
 
 -SRS muhandislik loyihalash jarayonining asosiy mahsulotidir
 
-+SRS ham talablarni spetsifikatsiya faoliyatining asosiy natijasidir
+**+SRS ham talablarni spetsifikatsiya faoliyatining asosiy natijasidir
 
 -aytilganlarning hammasi
 
-23.SRS quyidagilardan iborat?
+**23.SRS quyidagilardan iborat?
+
 -muammo bayoni
 
 -mahsulot dizayni
 
-+Muammo bayoni va mahsulot dizayni
+**+Muammo bayoni va mahsulot dizayni
 
 -aytilganlarning hech biri
 
-24.Ulardan qaysi biri texnik bo'lmagan talablar hisoblanadi?
+**24.Ulardan qaysi biri texnik bo'lmagan talablar hisoblanadi?
+
 -Funktsional talablar
 
 -Funktsional bo'lmagan talablar
 
-+Ishlab chiquvchining talablari
+**+Ishlab chiquvchining talablari
 
 -Ma'lumotlarga bo'lgan talablar
 
-25.Funktsional talablar haqida qaysi biri to'g'ri?
+**25.Funktsional talablar haqida qaysi biri to'g'ri?
+
 -Funksional talabni xulq-atvor talabi ham deyiladi
 
 -Funktsional talab ishlab chiqish va operatsion talablarni o'z ichiga oladi
 
-+Funktsional talab - bu dasturiy mahsulot qanday qilib dastur kirishlarini dastur natijalariga moslashtirishi kerakligi haqidagi bayonotdir
+**+Funktsional talab - bu dasturiy mahsulot qanday qilib dastur kirishlarini dastur natijalariga moslashtirishi kerakligi haqidagi bayonotdir
 
 -aytilganlarning hech biri
 
-26.Funktsional bo'lmagan talablar uchun qaysi biri to'g'ri?
+**26.Funktsional bo'lmagan talablar uchun qaysi biri to'g'ri?
+
 -Funktsional bo'lmagan talab, shuningdek, xatti-harakatlar talablari deb ataladi
 
 -Funktsional bo'lmagan talab - bu dasturiy mahsulot ma'lum xususiyatlarga ega bo'lishi kerakligi haqidagi bayonot
 
 -Rivojlanish va operatsion talablardan iborat
 
-+aytilganlarning hammasi
+**+aytilganlarning hammasi
 
-27.Ulardan qaysi biri rivojlanish talablari sifatlariga tegishli emas?
+**27.Ulardan qaysi biri rivojlanish talablari sifatlariga tegishli emas?
+
 -ishlash
 
 -javob vaqti
 
 -saqlanishi
 
-+Ishlash va javob vaqti
+**+Ishlash va javob vaqti
 
-28.Ulardan qaysi biri operativ talablar sifatlariga tegishli emas?
+**28.Ulardan qaysi biri operativ talablar sifatlariga tegishli emas?
+
 -Xotiradan foydalanish
 
 -Portativlik
 
 -qayta foydalanish imkoniyati
 
-+Portativlik va qayta foydalanish imkoniyati
+**+Portativlik va qayta foydalanish imkoniyati
 
-29.Quyidagilardan qaysi biri ma'lumotlarga qo'yiladigan talablar ma'lumotlarga ruxsat beradi?
+**29.Quyidagilardan qaysi biri ma'lumotlarga qo'yiladigan talablar ma'lumotlarga ruxsat beradi?
+
 -ma'lumotlarni kiritish
 
 -Ma'lumotlarni qoldirish
 
 -ma'lumotlarni mahsulotda saqlash
 
-+aytilganlarning hammasi
+**+aytilganlarning hammasi
 
 30.Texnik darajadagi abstraktsiya ______________ o'z ichiga oladi.
+
 -Foydalanuvchi darajasidagi talab
 
 -Jismoniy darajadagi talab
 
 -Operatsion darajadagi talab
 
-+aytilganlarning hammasi
+**+aytilganlarning hammasi
 
-31.Quyidagi gaplardan qaysi biri to'g'ri?
+**31.Quyidagi gaplardan qaysi biri to'g'ri?
+
 -Jismoniy darajadagi talab -mahsulot manfaatdor tomonlarga o'z maqsadlari yoki vazifalariga erishishda qanday yordam berishi kerakligi haqidagi bayonot
 
 -Operatsion darajadagi talab -mahsulotning jismoniy shakli, uning atrof-muhit bilan jismoniy interfeysi yoki ma'lumotlar formatlari tafsilotlari haqidagi bayonot
 
 -aytilganlarning hammasi
 
-+aytilganlarning hech biri
+**+aytilganlarning hech biri
 
-32.Quyidagi gaplarning qaysi biri noto'g'ri?
+**32.Quyidagi gaplarning qaysi biri noto'g'ri?
+
 -O'zaro ta'sir dizayni, odamlar samarali va zavq bilan foydalanishlari mumkin bo'lgan mahsulotlarni belgilash faoliyati mahsulot dizaynining muhim qismidir va shuning uchun talablarni ishlab chiqishning bir qismidir.
 
 -SRS shablonlari mahsulotning dizayn hujjatlarini tuzadi, lekin mahsulot xususiyatlariga moslashtirilishi kerak
@@ -343,19 +365,21 @@ Sharshara modeli
 
 texnik talablar mahsulot tafsilotlarini bildiradi
 
-+aytilganlarning hech biri
+**+aytilganlarning hech biri
 
-33.Mahsulot talablarini boshqarishda qaysi ikkita talabga ustunlik beriladi?
+**33.Mahsulot talablarini boshqarishda qaysi ikkita talabga ustunlik beriladi?
+
 -foydalanuvchi va dasturchi
 
 -Funktsional va funktsional bo'lmagan
 
-+Bardoshli va o'zgaruvchan
+**+Bardoshli va o'zgaruvchan
 
 -aytilganlarning hammasi
 
-34.Kutubxona boshqaruvida kitob chiqarish/qaytarish, kataloglashtirish va hokazo misolini ko'rib chiqsak.Bu erda boshqaruv talabining qanday turi tasvirlangan?
-+Bardoshli
+**34.Kutubxona boshqaruvida kitob chiqarish/qaytarish, kataloglashtirish va hokazo misolini ko'rib chiqsak.Bu erda boshqaruv talabining qanday turi tasvirlangan?
+
+**+Bardoshli
 
 -uchuvchan
 
@@ -363,21 +387,23 @@ texnik talablar mahsulot tafsilotlarini bildiradi
 
 -aytilganlarning hammasi
 
-35.Talablarni boshqarish nima uchun muhim? Bu o'zgarishlar tufayli
+**35.Talablarni boshqarish nima uchun muhim? Bu o'zgarishlar tufayli
+
 -atrof-muhitga
 
 -texnologiyada
 
 -mijozning taxminlari bo'yicha
 
-+ko'rsatilganlarning barchasida.
+**+ko'rsatilganlarning barchasida.
 
-36.Quyidagilardan qaysi biri Talablarni boshqarish dastgohi vositasi emas?
+**36.Quyidagilardan qaysi biri Talablarni boshqarish dastgohi vositasi emas?
+
 -RTM
 
 -ESHIKLAR
 
-+Ratsional to'plam
+**+Ratsional to'plam
 
 -RDD 100
 
