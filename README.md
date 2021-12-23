@@ -38,7 +38,7 @@ c) ii, iv, i, iii
 
 d) All of the mentioned
 
-# 2.Eng muhimidan boshlab, manfaatdor tomonlarning tartibini tanlang.
+**2.Eng muhimidan boshlab, manfaatdor tomonlarning tartibini tanlang.**
 
 i. Menejerlar, ii. Kirish darajasidagi xodimlar,
 
@@ -52,7 +52,7 @@ iii. Foydalanuvchilar, iv. O'rta darajadagi manfaatdor tomon
 
 -aytilganlarning hammasi
 
-----------==========----------==========----------==========----------==========
+------------------------------------------------------------------------
 
 **3. Arrange the tasks involved in requirements elicitation in an appropriate manner.**
 
@@ -72,9 +72,10 @@ c) iii, ii, iv, i
 
 d) ii, iii, iv, i
 
-----------==========----------==========----------==========----------==========
+**3.Talablarni aniqlash bilan bog'liq vazifalarni tegishli tarzda tartibga soling**. 
 
-**3.Talablarni aniqlash bilan bog'liq vazifalarni tegishli tarzda tartibga soling**. i. Mustahkamlash, ii. Ustuvorlik, iii. Talablarni yig'ish, iv. Baholash
+i. Mustahkamlash, ii. Ustuvorlik, iii. Talablarni yig'ish, iv. Baholash
+
 -iii, i, ii, iv
 
 **+ii, iv, ii, i**
@@ -82,6 +83,15 @@ d) ii, iii, iv, i
 -iii, ii, iv, i
 
 -ii, iii, iv, i
+
+------------------------------------------------------------------------
+**4. What are the types of requirement in Quality Function Deployment (QFD)?
+
+a) Known, Unknown, Undreamed
+b) User, Developer
+c) Functional, Non-Functional
+**d) Normal, Expected, Exciting
+
 
 **4.Sifat funktsiyasini joylashtirishda (QFD) qanday talab turlari mavjud?**
 -Ma'lum, noma'lum, tush ko'rmagan
@@ -91,6 +101,9 @@ d) ii, iii, iv, i
 -Funktsional, Funksional bo'lmagan
 
 **+Oddiy, kutilgan, hayajonli**
+
+------------------------------------------------------------------------
+
 
 **5.Tizimning funksional ko'rinishini berish uchun aniqlash va modellashtirish uchun qanday yondashuv joriy etildi?**
 -Ob'ektga yo'naltirilgan dizayn (Booch tomonidan)
