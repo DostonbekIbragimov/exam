@@ -85,15 +85,19 @@ i. Mustahkamlash, ii. Ustuvorlik, iii. Talablarni yig'ish, iv. Baholash
 -ii, iii, iv, i
 
 ------------------------------------------------------------------------
-**4. What are the types of requirement in Quality Function Deployment (QFD)?
+**4. What are the types of requirement in Quality Function Deployment (QFD)?**
 
 a) Known, Unknown, Undreamed
+
 b) User, Developer
+
 c) Functional, Non-Functional
-**d) Normal, Expected, Exciting
+
+**d) Normal, Expected, Exciting**
 
 
 **4.Sifat funktsiyasini joylashtirishda (QFD) qanday talab turlari mavjud?**
+
 -Ma'lum, noma'lum, tush ko'rmagan
 
 -foydalanuvchi, dasturchi
@@ -106,6 +110,7 @@ c) Functional, Non-Functional
 
 
 **5.Tizimning funksional ko'rinishini berish uchun aniqlash va modellashtirish uchun qanday yondashuv joriy etildi?**
+
 -Ob'ektga yo'naltirilgan dizayn (Booch tomonidan)
 
 **+Foydalanish holatlari (Jeykobson tomonidan)**
@@ -114,7 +119,10 @@ c) Functional, Non-Functional
 
 -Ob'ektni modellashtirish texnikasi (Rumbo tomonidan)
 
+------------------------------------------------------------------------
+
 **6.OOSEda qanday aktyor turlari qo'llaniladi?**
+
 -asosiy
 
 -ikkilamchi
@@ -123,7 +131,10 @@ c) Functional, Non-Functional
 
 **+Boshlang'ich va ikkinchi darajali**
 
+------------------------------------------------------------------------
+
 **7.Nima uchun Talablarni aniqlash qiyin vazifa?**
+
 -qamrov muammosi
 
 -Tushunish muammosi
@@ -133,6 +144,7 @@ c) Functional, Non-Functional
 **+aytilganlarning hammasi**
 
 **8.1970-yillarda IBM da ishlab chiqilgan talablarni yig'ishning qanday usuli talablarni aniqlashni boshqarish uchun ishlatilgan?**
+
 -JAD
 
 -kuzatuv qobiliyati
@@ -141,7 +153,10 @@ c) Functional, Non-Functional
 
 **+JAD ham, kuzatilishi ham**
 
+------------------------------------------------------------------------
+
 **9.Talablar modelining to'g'riligi, to'liqligi va izchilligi qanday barcha ish mahsulotlari sifatiga kuchli ta'sir qiladi?
+
 **+Talab sifati
 
 -Dizayn sifati
@@ -150,7 +165,10 @@ c) Functional, Non-Functional
 
 -Sifatni nazorat qilish samaradorligi
 
+------------------------------------------------------------------------
+
 **10.Ogohlantirish faoliyatida nechta stsenariy mavjud?**
+
 -bitta
 
 -ikkita
@@ -159,7 +177,10 @@ c) Functional, Non-Functional
 
 **+to'rt
 
+------------------------------------------------------------------------
+
 **11.Quyidagilardan qaysi biri Talablar tahlilida o'rganiladigan diagramma emas?**
+
 -Foydalanish holatlari
 
 -Shaxs munosabatlari diagrammasi
@@ -167,6 +188,8 @@ c) Functional, Non-Functional
 -Davlat o'tish diagrammasi
 
 **+Faoliyat diagrammasi
+
+------------------------------------------------------------------------
 
 **12.Talablarni tahlil qilishda qancha texnik-iqtisodiy asoslar o'tkaziladi?
 
@@ -177,6 +200,8 @@ c) Functional, Non-Functional
 -to'rt
 
 **+aytilganlarning hech biri
+
+------------------------------------------------------------------------
 
 **13.Talablarni tahlil qilish necha bosqichdan iborat?
 
